@@ -139,13 +139,13 @@ sudo snap install --classic heroku
 	refference: https://hackmd.io/@ccw/B1Xw7E8kN?type=view#Q2-如何在-Heroku-使用-pygraphviz
 
 ## Reference
-[twstock](https://twstock.readthedocs.io/zh_TW/latest/) - 開源的台灣股市python module
+[twstock](https://twstock.readthedocs.io/zh_TW/latest/) - 開源的台灣股市python module，使用了查股價以及簡評的module
 
-[vickyyeh](https://github.com/vickyyeh/Linebot9) 
+[vickyyeh](https://github.com/vickyyeh/Linebot9) - 參考並改寫其中對於匯率爬蟲的code，改寫了輸出型式以及輸入的幣別
 
 Flask Architecture ❤️ [@Sirius207](https://github.com/Sirius207)
 
 [Line line-bot-sdk-python](https://github.com/line/line-bot-sdk-python/tree/master/examples/flask-echo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDAzOTE1NTAsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbOTM0NzkzNDc1LDQ0Njk3NTQxXX0=
 -->
