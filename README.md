@@ -139,6 +139,8 @@ sudo snap install --classic heroku
 	refference: https://hackmd.io/@ccw/B1Xw7E8kN?type=view#Q2-如何在-Heroku-使用-pygraphviz
 
 ## Reference
+[twstock](https://twstock.readthedocs.io/zh_TW/latest/) -
+
 [Pipenv](https://medium.com/@chihsuan/pipenv-更簡單-更快速的-python-套件管理工具-135a47e504f4) ❤️ [@chihsuan](https://github.com/chihsuan)
 
 [TOC-Project-2019](https://github.com/winonecheng/TOC-Project-2019) ❤️ [@winonecheng](https://github.com/winonecheng)
@@ -147,5 +149,5 @@ Flask Architecture ❤️ [@Sirius207](https://github.com/Sirius207)
 
 [Line line-bot-sdk-python](https://github.com/line/line-bot-sdk-python/tree/master/examples/flask-echo)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbOTM3NTIzODk0LDQ0Njk3NTQxXX0=
 -->
