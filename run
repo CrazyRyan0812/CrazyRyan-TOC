@@ -1,0 +1,9 @@
+#!/bin/bash
+
+export PATH=$PATH:/home/ryan/TOC-Project-2020-master
+
+heroku git:remote -a crazyryan-toc
+git add .
+git commit -m "Final commit"
+git push -f heroku master
+heroku logs --tail -a crazyryan-toc
