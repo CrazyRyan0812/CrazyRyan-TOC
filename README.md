@@ -6,13 +6,30 @@
 * Python 3.8
 ### 使用工具(抄自requirements)
 ```sh
-pip3 install pipenv
-
-pipenv --three
-
-pipenv install
-
-pipenv shell
+certifi==2019.9.11
+chardet==3.0.4
+click==7.0
+flask==1.0.2
+future==0.18.1
+idna==2.8
+itsdangerous==1.1.0
+jinja2==2.10.3
+line-bot-sdk==1.14.0
+markupsafe==1.1.1
+pygraphviz==1.5
+python-dotenv==0.10.3
+requests==2.22.0
+six==1.12.0
+transitions==0.6.9
+urllib3==1.25.6
+werkzeug==0.16.0
+以下為爬蟲相關
+beautifulsoup4==4.8.1
+lxml==4.4.2
+numpy==1.17.4
+pandas==0.25.3
+以下為台灣股市相關
+twstock==1.3.1
 ```
 
 * pygraphviz (For visualizing Finite State Machine)
@@ -143,6 +160,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0ODE0NzUzLDExMzk2NzY2ODIsNDQ2OT
-c1NDFdfQ==
+eyJoaXN0b3J5IjpbMTcyOTA4MDcxMCwxMTM5Njc2NjgyLDQ0Nj
+k3NTQxXX0=
 -->
