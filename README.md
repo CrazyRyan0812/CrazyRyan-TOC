@@ -1,14 +1,10 @@
 # 歡迎使用CrazyRyan-TOC
 
-## Setup
+## 使用相關程式及工具
 
-### Prerequisite
-* Python 3.6
-* Pipenv
-* Facebook Page and App
-* HTTPS Server
-
-#### Install Dependency
+### 使用語言
+* Python 3.8
+### 使用工具(抄自requirements)
 ```sh
 pip3 install pipenv
 
@@ -147,5 +143,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTY3NjY4Miw0NDY5NzU0MV19
+eyJoaXN0b3J5IjpbNDM0ODE0NzUzLDExMzk2NzY2ODIsNDQ2OT
+c1NDFdfQ==
 -->
