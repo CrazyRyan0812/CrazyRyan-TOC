@@ -6,6 +6,7 @@
 * Python 3.8
 ### 使用工具(抄自requirements)
 ```sh
+預設程式
 certifi==2019.9.11
 chardet==3.0.4
 click==7.0
@@ -31,7 +32,8 @@ pandas==0.25.3
 以下為台灣股市相關
 twstock==1.3.1
 ```
-
+## 使用教學
+## 遇到的困難及解決方法
 * pygraphviz (For visualizing Finite State Machine)
     * [Setup pygraphviz on Ubuntu](http://www.jianshu.com/p/a3da7ecc5303)
 	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
@@ -160,6 +162,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTA4MDcxMCwxMTM5Njc2NjgyLDQ0Nj
+eyJoaXN0b3J5IjpbLTc5NDY1MjA1NiwxMTM5Njc2NjgyLDQ0Nj
 k3NTQxXX0=
 -->
