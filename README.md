@@ -48,7 +48,7 @@ twstock==1.3.1
 
 
 #### 輸入[早安]  
-<img width="450" src="readme_introduction/00.PNG"/>  
+<img width="450" src="readme_introduction/00.JPG"/>  
 
 #### 輸入[匯率]進行查詢  
 <img width="450" src="readme_introduction/01.PNG"/>  
@@ -150,7 +150,8 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNTk4MjU3LC0yMzk2NzgzMDEsLTE2Nz
-UwMjQ2NDYsLTc3MzAxNTIwOCwtMTg2MjczNTM4NSwtMTM1Nzk5
-MzU0LC03OTQ2NTIwNTYsMTEzOTY3NjY4Miw0NDY5NzU0MV19
+eyJoaXN0b3J5IjpbLTc4NjA1MzM5OSw3NTM1OTgyNTcsLTIzOT
+Y3ODMwMSwtMTY3NTAyNDY0NiwtNzczMDE1MjA4LC0xODYyNzM1
+Mzg1LC0xMzU3OTkzNTQsLTc5NDY1MjA1NiwxMTM5Njc2NjgyLD
+Q0Njk3NTQxXX0=
 -->
