@@ -70,7 +70,7 @@ heroku logs --tail -a crazyryan-toc
 #### pygraphviz的Ubuntu安裝解法
 * pygraphviz (For visualizing Finite State Machine)
     * [Setup pygraphviz on Ubuntu](http://www.jianshu.com/p/a3da7ecc5303)
-	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
+
 	
 	
 #### pygraphviz的heroku安裝解法
@@ -115,6 +115,6 @@ https://stackedit.io/
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc5OTM1NCwtNzk0NjUyMDU2LDExMz
-k2NzY2ODIsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbLTE4NjI3MzUzODUsLTEzNTc5OTM1NCwtNz
+k0NjUyMDU2LDExMzk2NzY2ODIsNDQ2OTc1NDFdfQ==
 -->
