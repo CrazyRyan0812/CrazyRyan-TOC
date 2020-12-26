@@ -10,7 +10,7 @@ QR code
 ## 使用相關程式及工具
 
 ### 使用語言
-* Python 3.8
+Python 3.8
 ### 使用工具(抄自requirements)
 ```sh
 預設程式
@@ -43,7 +43,7 @@ twstock==1.3.1
 ```
 ## 使用教學
 這個程式有以下兩個主要功能，查詢匯率以及股市
-
+輸入[早安]即可開始
 
 ## Finite State Machine
 ![fsm](./fsm.png)
@@ -113,8 +113,9 @@ https://stackedit.io/
 
 [github上傳教學](https://docs.google.com/presentation/d/1y0xIJuEBSTnHCjQ9X1AsHUm_gFtOzrA66-vSgvQAFMc/edit#slide=id.p) - 半年前學長於機械系學會部課所用的教學文件
 
-[助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
+[助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjI3MzUzODUsLTEzNTc5OTM1NCwtNz
-k0NjUyMDU2LDExMzk2NzY2ODIsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbMTEyMzcxNjA2LC0xODYyNzM1Mzg1LC0xMz
+U3OTkzNTQsLTc5NDY1MjA1NiwxMTM5Njc2NjgyLDQ0Njk3NTQx
+XX0=
 -->
