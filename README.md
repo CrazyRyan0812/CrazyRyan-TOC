@@ -42,6 +42,12 @@ pandas==0.25.3
 twstock==1.3.1
 ```
 ## 使用教學
+這個程式有以下兩個主要功能，查詢匯率以及股市
+
+
+## Finite State Machine
+![fsm](./fsm.png)
+
 ## 遇到的困難及解決方法
 因為這次在Ubuntu的環境下進行程式編寫，其實少了很多windows 系統會遇到的問題，這裡還是把這份doc給完備，希望在未來某人作相同專案或類似專案時會有所幫助
 
@@ -91,10 +97,10 @@ https://crazyryan-toc.herokuapp.com/webhook
 https://亂碼.ngrok.io/webhook
 
 #### requirements安裝教學((對我很爛...我一開始還一個一個安裝
+pip3 **install** -r **requirements**.**txt**
 
 
-## Finite State Machine
-![fsm](./fsm.png)
+
 
 ## 關於這份readme的編寫
 想耍懶惰的話，我是用
@@ -109,6 +115,6 @@ https://stackedit.io/
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI4ODg4OTYsLTc5NDY1MjA1NiwxMT
-M5Njc2NjgyLDQ0Njk3NTQxXX0=
+eyJoaXN0b3J5IjpbLTEzNTc5OTM1NCwtNzk0NjUyMDU2LDExMz
+k2NzY2ODIsNDQ2OTc1NDFdfQ==
 -->
