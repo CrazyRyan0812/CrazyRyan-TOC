@@ -44,7 +44,9 @@ twstock==1.3.1
 You should generate a `.env` file to set Environment Variables refer to our `.env.sample`.
 `LINE_CHANNEL_SECRET` and `LINE_CHANNEL_ACCESS_TOKEN` **MUST** be set to proper values.
 Otherwise, you might not be able to run your code.
-ㄉㄢ
+但是，如果直接進行push的話，這個檔案其實會被遺失掉
+需要把`.gitignore` 的第85行進行註解後再使用
+但要再注意，雖然這份專案的secret被公開並無大礙，但其實估開key再
 
 
 #### Run Locally
@@ -165,6 +167,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjc3ODUyNSwtNzk0NjUyMDU2LDExMz
-k2NzY2ODIsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbOTc2OTE4NDU4LC03OTQ2NTIwNTYsMTEzOT
+Y3NjY4Miw0NDY5NzU0MV19
 -->
