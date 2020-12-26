@@ -1,5 +1,14 @@
 # 歡迎使用CrazyRyan-TOC
 
+### Bot information
+Bot basic ID
+
+@118uqybf
+
+QR code
+
+![](https://qr-official.line.me/sid/L/118uqybf.png)
+
 ## 使用相關程式及工具
 
 ### 使用語言
@@ -75,6 +84,7 @@ Otherwise, you might not be able to run your code.
 需要把`.gitignore` 的第85行進行註解後再使用
 但要再注意，雖然這份專案的secret被公開並無大礙，但其實公開key在github是危險的，要小心使用
 
+#### LINE對應的網址尾端要有/webhook，如下所示
 
 #### Run Locally
 You can either setup https server or using `ngrok` as a proxy.
@@ -194,6 +204,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDkyNjg3NSwtNzk0NjUyMDU2LDExMz
-k2NzY2ODIsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbLTE1MzAzMzExMTksLTc5NDY1MjA1NiwxMT
+M5Njc2NjgyLDQ0Njk3NTQxXX0=
 -->
