@@ -48,15 +48,20 @@ twstock==1.3.1
 
 輸入[早安]
 <img width="300" src="readme_introduction/00.PNG"/>
-
+.
 輸入[匯率]進行查詢
 <img width="300" src="readme_introduction/01.PNG"/>
-
+.
 點選不同幣別可得結果
+.
 <img width="300" src="readme_introduction/02 (1).JPG"/>
+.
 <img width="300" src="readme_introduction/02 (2).JPG"/>
+.
 <img width="300" src="readme_introduction/02 (3).JPG"/>
+.
 <img width="300" src="readme_introduction/02 (4).JPG"/>
+.
 
 
 ## Finite State Machine
@@ -129,7 +134,7 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjI5OTM1MCwtMTY3NTAyNDY0NiwtNz
-czMDE1MjA4LC0xODYyNzM1Mzg1LC0xMzU3OTkzNTQsLTc5NDY1
-MjA1NiwxMTM5Njc2NjgyLDQ0Njk3NTQxXX0=
+eyJoaXN0b3J5IjpbNDI2MTkyMDA0LC0xNjc1MDI0NjQ2LC03Nz
+MwMTUyMDgsLTE4NjI3MzUzODUsLTEzNTc5OTM1NCwtNzk0NjUy
+MDU2LDExMzk2NzY2ODIsNDQ2OTc1NDFdfQ==
 -->
