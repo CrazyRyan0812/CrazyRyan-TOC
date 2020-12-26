@@ -55,7 +55,9 @@ twstock==1.3.1
 <img width="300" src="readme_introduction/02 (2).JPG"/>  
 <img width="300" src="readme_introduction/02 (3).JPG"/>  
 <img width="300" src="readme_introduction/02 (4).JPG"/>  
-
+輸入[台灣股市]進行查詢  
+點選[股票股價]後，輸入欲查詢的股票編號，可得4種結果 
+1.平日開盤前((因為我起不來所以沒截圖，應該會ㄏㄨㄟ
 
 
 ## Finite State Machine
@@ -128,7 +130,7 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDAyNTY0LC0yMzk2NzgzMDEsLTE2Nz
+eyJoaXN0b3J5IjpbOTU5MjQzNDMyLC0yMzk2NzgzMDEsLTE2Nz
 UwMjQ2NDYsLTc3MzAxNTIwOCwtMTg2MjczNTM4NSwtMTM1Nzk5
 MzU0LC03OTQ2NTIwNTYsMTEzOTY3NjY4Miw0NDY5NzU0MV19
 -->
