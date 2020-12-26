@@ -39,10 +39,13 @@ twstock==1.3.1
 	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
 
 
-#### Secret Data
+#### 遺失的.env
+助教公布的readme裡面有提到這段，要把
 You should generate a `.env` file to set Environment Variables refer to our `.env.sample`.
 `LINE_CHANNEL_SECRET` and `LINE_CHANNEL_ACCESS_TOKEN` **MUST** be set to proper values.
 Otherwise, you might not be able to run your code.
+ㄉㄢ
+
 
 #### Run Locally
 You can either setup https server or using `ngrok` as a proxy.
@@ -162,6 +165,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDY1MjA1NiwxMTM5Njc2NjgyLDQ0Nj
-k3NTQxXX0=
+eyJoaXN0b3J5IjpbMTkxMjc3ODUyNSwtNzk0NjUyMDU2LDExMz
+k2NzY2ODIsNDQ2OTc1NDFdfQ==
 -->
