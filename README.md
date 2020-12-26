@@ -31,11 +31,13 @@ six==1.12.0
 transitions==0.6.9
 urllib3==1.25.6
 werkzeug==0.16.0
+
 以下為爬蟲相關
 beautifulsoup4==4.8.1
 lxml==4.4.2
 numpy==1.17.4
 pandas==0.25.3
+
 以下為台灣股市相關
 twstock==1.3.1
 ```
@@ -88,6 +90,8 @@ Otherwise, you might not be able to run your code.
 https://crazyryan-toc.herokuapp.com/webhook
 https://亂碼.ngrok.io/webhook
 
+#### requirements安裝教學((對我很爛...我一開始還一個一個安裝
+
 
 ## Finite State Machine
 ![fsm](./fsm.png)
@@ -105,6 +109,6 @@ https://stackedit.io/
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwODYyNzUxLC03OTQ2NTIwNTYsMTEzOT
-Y3NjY4Miw0NDY5NzU0MV19
+eyJoaXN0b3J5IjpbLTEwOTI4ODg4OTYsLTc5NDY1MjA1NiwxMT
+M5Njc2NjgyLDQ0Njk3NTQxXX0=
 -->
