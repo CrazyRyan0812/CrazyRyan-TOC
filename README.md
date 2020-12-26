@@ -36,6 +36,22 @@ twstock==1.3.1
 ## 遇到的困難及解決方法
 因為這次在Ubuntu的環境下進行程式編寫，其實少了很多windows 系統會遇到的問題，這裡還是把這份doc給完備，希望在未來某人作相同專案或類似專案時會有所幫助
 
+#### 我自製的run file
+其實這份file只是為了讓我可以在每次git到heroku時不用一直打指令，故特別編寫
+```
+export PATH=$PATH:/home/ryan/TOC-Project-2020-master
+指定專案路徑
+heroku git:remote -a crazyryan-toc
+指定專案的app名稱
+git add .
+把全部的檔案都ㄍ
+git commit -m "Final commit"
+
+git push -f heroku master
+
+heroku logs --tail -a crazyryan-toc
+```
+
 * pygraphviz (For visualizing Finite State Machine)
     * [Setup pygraphviz on Ubuntu](http://www.jianshu.com/p/a3da7ecc5303)
 	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
@@ -169,6 +185,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTU1MDg1NCwtNzk0NjUyMDU2LDExMz
+eyJoaXN0b3J5IjpbLTM2NjAzNTkxNiwtNzk0NjUyMDU2LDExMz
 k2NzY2ODIsNDQ2OTc1NDFdfQ==
 -->
