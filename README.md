@@ -47,7 +47,7 @@ twstock==1.3.1
 目前已經有deploy到heroku，基本上沒人在用XD，2020/12/28後不進行維護，所以如果有興趣要玩得在傳送早安後要等約30秒才會收到伺服器的回應囉
 
 輸入早安
-
+![](./readme_introduction/00.png)
 
 ## Finite State Machine
 ![fsm](./fsm.png)
@@ -119,7 +119,7 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzAxNTIwOCwtMTg2MjczNTM4NSwtMT
-M1Nzk5MzU0LC03OTQ2NTIwNTYsMTEzOTY3NjY4Miw0NDY5NzU0
-MV19
+eyJoaXN0b3J5IjpbNjAxMTI5NTkyLC03NzMwMTUyMDgsLTE4Nj
+I3MzUzODUsLTEzNTc5OTM1NCwtNzk0NjUyMDU2LDExMzk2NzY2
+ODIsNDQ2OTc1NDFdfQ==
 -->
