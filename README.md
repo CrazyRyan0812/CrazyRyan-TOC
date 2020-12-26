@@ -69,8 +69,10 @@ twstock==1.3.1
 <img width="300" src="readme_introduction/03-1-2.PNG"/>  
 4.周末未開盤  
 <img width="300" src="readme_introduction/03-1-3.PNG"/>  
-#### 點選[股票股價]後，輸入欲查詢的股票編號，可得4種結果 
-
+#### 點選[股票基本面]後，會連結至yahoo股市的K線圖，並提供量能簡評  
+<img width="300" src="readme_introduction/03-2.PNG"/>  
+#### 點選[其他資訊]後，會連結至台灣證交所官網  
+<img width="300" src="readme_introduction/03-2.PNG"/>  
 ## Finite State Machine
 ![fsm](./fsm.png)
 
@@ -141,7 +143,7 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDYzNDU0MCwtMjM5Njc4MzAxLC0xNj
+eyJoaXN0b3J5IjpbMjA1MjE3NDUxMiwtMjM5Njc4MzAxLC0xNj
 c1MDI0NjQ2LC03NzMwMTUyMDgsLTE4NjI3MzUzODUsLTEzNTc5
 OTM1NCwtNzk0NjUyMDU2LDExMzk2NzY2ODIsNDQ2OTc1NDFdfQ
 ==
