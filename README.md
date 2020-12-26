@@ -46,22 +46,16 @@ twstock==1.3.1
 輸入[早安]即可開始使用((純粹因為這是我的口頭禪XDDD
 目前已經有deploy到heroku，基本上沒人在用XD，2020/12/28後不進行維護，所以如果有興趣要玩得在傳送早安後要等約30秒才會收到伺服器的回應囉
 
-輸入[早安]
+<n>輸入[早安]</n>
 <img width="300" src="readme_introduction/00.PNG"/>
-.
-輸入[匯率]進行查詢
+<n>輸入[匯率]進行查詢</n>
 <img width="300" src="readme_introduction/01.PNG"/>
-.
-點選不同幣別可得結果
-.
+<n>點選不同幣別可得結果</n>
 <img width="300" src="readme_introduction/02 (1).JPG"/>
-.
 <img width="300" src="readme_introduction/02 (2).JPG"/>
-.
 <img width="300" src="readme_introduction/02 (3).JPG"/>
-.
 <img width="300" src="readme_introduction/02 (4).JPG"/>
-.
+
 
 
 ## Finite State Machine
@@ -134,7 +128,7 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2MTkyMDA0LC0xNjc1MDI0NjQ2LC03Nz
-MwMTUyMDgsLTE4NjI3MzUzODUsLTEzNTc5OTM1NCwtNzk0NjUy
-MDU2LDExMzk2NzY2ODIsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbLTIzOTY3ODMwMSwtMTY3NTAyNDY0NiwtNz
+czMDE1MjA4LC0xODYyNzM1Mzg1LC0xMzU3OTkzNTQsLTc5NDY1
+MjA1NiwxMTM5Njc2NjgyLDQ0Njk3NTQxXX0=
 -->
