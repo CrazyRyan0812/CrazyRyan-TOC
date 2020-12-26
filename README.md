@@ -128,7 +128,7 @@ Otherwise, you might not be able to run your code.
 但要再注意，雖然這份專案的secret被公開並無大礙，但其實公開key在github是危險的，要小心使用
 
 #### LINE對應的網址尾端要有/webhook，如下所示
-https://crazyryan-toc.herokuapp.com/webhook
+https://crazyryan-toc.herokuapp.com/webhook  
 https://亂碼.ngrok.io/webhook
 
 #### requirements安裝教學((對我很爛...我一開始還一個一個安裝
@@ -150,8 +150,8 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY3MDk2NjEsNzUzNTk4MjU3LC0yMz
-k2NzgzMDEsLTE2NzUwMjQ2NDYsLTc3MzAxNTIwOCwtMTg2Mjcz
-NTM4NSwtMTM1Nzk5MzU0LC03OTQ2NTIwNTYsMTEzOTY3NjY4Mi
-w0NDY5NzU0MV19
+eyJoaXN0b3J5IjpbMTY3OTUzNjU0Nyw3NTM1OTgyNTcsLTIzOT
+Y3ODMwMSwtMTY3NTAyNDY0NiwtNzczMDE1MjA4LC0xODYyNzM1
+Mzg1LC0xMzU3OTkzNTQsLTc5NDY1MjA1NiwxMTM5Njc2NjgyLD
+Q0Njk3NTQxXX0=
 -->
