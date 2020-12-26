@@ -74,11 +74,13 @@ run commands below can solve the problems
 [參考連結]( https://hackmd.io/@ccw/B1Xw7E8kN?type=view#Q2-如何在-Heroku-使用-pygraphviz)
 
 #### 遺失的.env
-助教公布的readme裡面有提到這段，要把
+助教公布的readme裡面有提到這段，要執行
+
 You should generate a `.env` file to set Environment Variables refer to our `.env.sample`.
 `LINE_CHANNEL_SECRET` and `LINE_CHANNEL_ACCESS_TOKEN` **MUST** be set to proper values.
 Otherwise, you might not be able to run your code.
-但是，如果直接進行push的話，這個檔案其實會被遺失掉
+
+但是，如果直接進行push的話，這個檔案其實會被忽略掉
 需要把`.gitignore` 的第85行進行註解後再使用
 但要再注意，雖然這份專案的secret被公開並無大礙，但其實公開key在github是危險的，要小心使用
 
@@ -90,8 +92,10 @@ https://亂碼.ngrok.io/webhook
 ## Finite State Machine
 ![fsm](./fsm.png)
 
-
-
+## 關於這份readme的編寫
+想耍懶惰的話，我是用
+https://stackedit.io/
+進行編寫的哦！
 ## Reference
 [twstock](https://twstock.readthedocs.io/zh_TW/latest/) - 開源的台灣股市python module，使用了查股價以及簡評的module
 
@@ -101,6 +105,6 @@ https://亂碼.ngrok.io/webhook
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzA4MjI3NSwtNzk0NjUyMDU2LDExMz
-k2NzY2ODIsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbNjYwODYyNzUxLC03OTQ2NTIwNTYsMTEzOT
+Y3NjY4Miw0NDY5NzU0MV19
 -->
