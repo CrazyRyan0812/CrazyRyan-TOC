@@ -4,7 +4,8 @@
 Bot basic ID
 @118uqybf
 
-QR code  ![QR code](https://qr-official.line.me/sid/L/118uqybf.png)
+QR code  
+<img width="450" src="https://qr-official.line.me/sid/L/118uqybf.png"/> 
 
 ## 使用相關程式及工具
 
@@ -149,8 +150,8 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwOTE5NzY3LDc1MzU5ODI1NywtMjM5Nj
-c4MzAxLC0xNjc1MDI0NjQ2LC03NzMwMTUyMDgsLTE4NjI3MzUz
-ODUsLTEzNTc5OTM1NCwtNzk0NjUyMDU2LDExMzk2NzY2ODIsND
-Q2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbMTY5MzY4NzgxNCw3NTM1OTgyNTcsLTIzOT
+Y3ODMwMSwtMTY3NTAyNDY0NiwtNzczMDE1MjA4LC0xODYyNzM1
+Mzg1LC0xMzU3OTkzNTQsLTc5NDY1MjA1NiwxMTM5Njc2NjgyLD
+Q0Njk3NTQxXX0=
 -->
