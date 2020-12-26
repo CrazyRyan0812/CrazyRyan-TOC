@@ -225,7 +225,16 @@ class TocMachine(GraphMachine):
         reply_token = event.reply_token
         send_text_message(reply_token, "請至台灣證交所官網查詢： \nhttps://www.twse.com.tw/zh/"+'\n輸入「早安」回到主選單')
         self.go_back()
-
+    
+    def is_going_to_show_fsm_pic(self,event):
+        text=event.message.text
+        return text.lower()=='fsm'
+        
+    def on_enter_show_fsm_pic(self,event):
+        reply_token = event.reply_token
+        url='https://raw.githubusercontent.com/CrazyRyan0812/CrazyRyan-TOC/master/fsm.png'
+        send_image_message(reply_token, url)
+        self.go_back()
 
 
 def get_exchange_value(index):
