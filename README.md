@@ -44,18 +44,26 @@ export PATH=$PATH:/home/ryan/TOC-Project-2020-master
 heroku git:remote -a crazyryan-toc
 指定專案的app名稱
 git add .
-把全部的檔案都ㄍ
+把全部的檔案都給圈起來
 git commit -m "Final commit"
-
+commit，並給我註解
 git push -f heroku master
-
+整個push到master
 heroku logs --tail -a crazyryan-toc
+連線查看console
 ```
-
+#### pygraphviz的Ubuntu安裝解法
 * pygraphviz (For visualizing Finite State Machine)
     * [Setup pygraphviz on Ubuntu](http://www.jianshu.com/p/a3da7ecc5303)
 	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
+#### pygraphviz的heroku安裝解法
+	run commands below can solve the problems
+	```
+	heroku buildpacks:set heroku/python
+	heroku buildpacks:add --index 1 heroku-community/apt
+	```
 
+	refference: https://hackmd.io/@ccw/B1Xw7E8kN?type=view#Q2-如何在-Heroku-使用-pygraphviz
 
 #### 遺失的.env
 助教公布的readme裡面有提到這段，要把
@@ -185,6 +193,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjAzNTkxNiwtNzk0NjUyMDU2LDExMz
-k2NzY2ODIsNDQ2OTc1NDFdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQxMTE1MjgsLTc5NDY1MjA1NiwxMT
+M5Njc2NjgyLDQ0Njk3NTQxXX0=
 -->
