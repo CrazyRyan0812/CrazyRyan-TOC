@@ -34,6 +34,8 @@ twstock==1.3.1
 ```
 ## 使用教學
 ## 遇到的困難及解決方法
+因為這次在Ubuntu的環境下進行程式編寫，其實少了很多windows 系統會遇到的問題，這裡還是把這份doc給完備，希望在未來某人作相同專案或類似專案時會有所幫助
+
 * pygraphviz (For visualizing Finite State Machine)
     * [Setup pygraphviz on Ubuntu](http://www.jianshu.com/p/a3da7ecc5303)
 	* [Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
@@ -46,7 +48,7 @@ You should generate a `.env` file to set Environment Variables refer to our `.en
 Otherwise, you might not be able to run your code.
 但是，如果直接進行push的話，這個檔案其實會被遺失掉
 需要把`.gitignore` 的第85行進行註解後再使用
-但要再注意，雖然這份專案的secret被公開並無大礙，但其實估開key再
+但要再注意，雖然這份專案的secret被公開並無大礙，但其實公開key在github是危險的，要小心使用
 
 
 #### Run Locally
@@ -167,6 +169,6 @@ sudo snap install --classic heroku
 
 [助教公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2OTE4NDU4LC03OTQ2NTIwNTYsMTEzOT
-Y3NjY4Miw0NDY5NzU0MV19
+eyJoaXN0b3J5IjpbMTc1NTU1MDg1NCwtNzk0NjUyMDU2LDExMz
+k2NzY2ODIsNDQ2OTc1NDFdfQ==
 -->
