@@ -48,6 +48,7 @@ twstock==1.3.1
 
 輸入早安
 ![00](readme_introduction/00.PNG)
+<img width="150" src="readme_introduction/00.PNG"/>
 
 ## Finite State Machine
 ![fsm](./fsm.png)
@@ -119,7 +120,7 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTUyMTExMSwtNzczMDE1MjA4LC0xOD
-YyNzM1Mzg1LC0xMzU3OTkzNTQsLTc5NDY1MjA1NiwxMTM5Njc2
-NjgyLDQ0Njk3NTQxXX0=
+eyJoaXN0b3J5IjpbNDg2ODUwMzkyLC03NzMwMTUyMDgsLTE4Nj
+I3MzUzODUsLTEzNTc5OTM1NCwtNzk0NjUyMDU2LDExMzk2NzY2
+ODIsNDQ2OTc1NDFdfQ==
 -->
