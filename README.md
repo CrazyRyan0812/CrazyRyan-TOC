@@ -135,8 +135,11 @@ https://亂碼.ngrok.io/webhook
 
 > pip3 install -r requirements.txt
 
-
-
+#### push到heroku時，虛擬環境可能會造成的問題
+我們知道虛擬環境會產生以下三個檔案
+但在安裝過程時，heroku會優先安裝pipfile的檔案
+但如果把虛擬環境儲存失敗或根本沒有使用虛擬環境進行架設
+就得把pipfile
 
 ## 關於這份readme的編寫
 想耍懶惰的話，我是用
@@ -151,8 +154,8 @@ https://stackedit.io/
 
 [助教moodle公佈的ppt](https://docs.google.com/presentation/d/e/2PACX-1vThBHTe2iRVzvead5tBeqnshkhmE61j13rMOs8iwzGgodWheJNlOntg7hXuSlMEY-Ek1l7XA1rzM-xK/pub?start=false&loop=false&delayms=3000#slide=id.p1) - 其中有部份已知錯誤或漏寫的訊息，有在上面遇到的問題進行描述
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDE2MjMyNyw3NTM1OTgyNTcsLTIzOT
-Y3ODMwMSwtMTY3NTAyNDY0NiwtNzczMDE1MjA4LC0xODYyNzM1
-Mzg1LC0xMzU3OTkzNTQsLTc5NDY1MjA1NiwxMTM5Njc2NjgyLD
-Q0Njk3NTQxXX0=
+eyJoaXN0b3J5IjpbMTIxMTg3NTQxLDEyOTQxNjIzMjcsNzUzNT
+k4MjU3LC0yMzk2NzgzMDEsLTE2NzUwMjQ2NDYsLTc3MzAxNTIw
+OCwtMTg2MjczNTM4NSwtMTM1Nzk5MzU0LC03OTQ2NTIwNTYsMT
+EzOTY3NjY4Miw0NDY5NzU0MV19
 -->
